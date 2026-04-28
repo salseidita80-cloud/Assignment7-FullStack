@@ -2,11 +2,6 @@
 
 A Streamlit frontend that consumes a FastAPI RESTful backend to perform full SCRUD operations on a U.S. Presidents database.
 
-## Links
-
-- **Live App:** https://assignment7-frontend-c9fws956yoccjcbsvetdjl.streamlit.app/
-- **GitHub Pages:** https://salseidita80-cloud.github.io/Assignment7-FrontEnd/
-- **Backend API:** https://myapi1-pz44.onrender.com
 
 ## Features
 
